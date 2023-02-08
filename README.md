@@ -1,6 +1,8 @@
 # Tensorflow Modeling for insect classification
 Insect Classification CNN focused on visual similiarities
 
+[Project Video Link](https://youtu.be/qgNHhiA4_YY)
+
 Source: https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp
 
 ## Project Goal
